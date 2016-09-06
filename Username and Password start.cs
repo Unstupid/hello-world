@@ -32,7 +32,7 @@ namespace WindowsFormsApplication1
             if (UserName == "Username" && Password == "Password")
             {
                 MessageBox.Show("Logging On...", "LogOnSuccessful", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Asterisk);
-
+                Application.Run(new Form2())
             }
             else
             {
