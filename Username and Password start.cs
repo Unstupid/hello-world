@@ -40,5 +40,15 @@ namespace WindowsFormsApplication1
                 LogOnSuccessShow.Text = ("Try to log on again - check the case of your password and username.");
             }
         }
+        private void AddToDatabase("@firstname","@lastname","@AllotmentNumber","@EmailAddress")
+        {
+            cmd.CommandText = "INSERT INTO Data (Firstname,Lastname,AllotmentNumber,EmailAddress) VALUES (@firstname,@lastname,@AllotmentNumber,@EmailAddress)";
+            cmd.CommandType = CommandType.Text;
+            cmd.Parameters.AddWithValue("@name", txtName.Text);
+            cmd.Parameters.AddWithValue("@phone", txtPhone.Text);
+            cmd.Parameters.AddWithValue("@EmailAddress", txtEmailAddress.Text);
+            cmd.Parameters.AddWithValue()
+            cmd.Connection = connection;
+        }
     }
 }
