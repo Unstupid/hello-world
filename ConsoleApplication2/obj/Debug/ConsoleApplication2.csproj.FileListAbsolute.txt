@@ -1,0 +1,11 @@
+c:\users\ian\Documents\Visual Studio 2013\Projects\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\ian\Documents\Visual Studio 2013\Projects\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\ian\Documents\Visual Studio 2013\Projects\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\ian\Documents\Visual Studio 2013\Projects\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+c:\users\ian\Documents\Visual Studio 2013\Projects\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\ian\Documents\Visual Studio 2013\Projects\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Ian\Documents\Visual Studio 2013\Projects\ConsoleApplication2\obj\Debug\ConsoleApplication2.LogInScreen_form.resources
+C:\Users\Ian\Documents\Visual Studio 2013\Projects\ConsoleApplication2\obj\Debug\ConsoleApplication2.Properties.Resources.resources
+C:\Users\Ian\Documents\Visual Studio 2013\Projects\ConsoleApplication2\obj\Debug\ConsoleApplication2.SecretaryFirst.resources
+C:\Users\Ian\Documents\Visual Studio 2013\Projects\ConsoleApplication2\obj\Debug\ConsoleApplication2.TreasurerFirst.resources
+C:\Users\Ian\Documents\Visual Studio 2013\Projects\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.GenerateResource.Cache
